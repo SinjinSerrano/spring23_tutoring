@@ -9,10 +9,9 @@ Welcome to Sinjin's Spring 2023 tutoring repository! Examples and notes I create
 * **COMP 150** *Object-Oriented Programming*
 * **COMP 151** *Data Structures and Program Design*
 * **COMP 162** *Computer Architecture and Assembly Language*
-
-*Unofficially Supported*
 * **COMP 232** *Programming Languages*
 * **COMP 262** *Computer Organization and Architecture*
+* **IT 421** *Unix Systems Programming II*
 
 ## Tutoring Hours
 [CS/IT/EMEC Tutoring Schedule: Spring 2023](https://compsci.csuci.edu/resources/tutoring-spring2023.pdf "Tutoring Schedule")
